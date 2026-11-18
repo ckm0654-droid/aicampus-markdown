@@ -125,8 +125,12 @@ markup과 markdown 모두 효과가 있습니다.
 
 ![카카오라이언](https://i.pinimg.com/originals/65/01/6b/65016b7fcf78444b8af4bef8fedc3e52.gif)
 
+깃허브는 이미지를 복사해서 붙여넣어도 임시로 업로드해서 주소를 만들어 줍니다.
 
+<img width="308" height="293" alt="image" src="https://github.com/user-attachments/assets/d6f1fc78-a109-415d-9667-094876883117" />
 
+내가 가진 이미지도 표시할 수 있습니다.  
+같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
 
-
+![카카오라이언](./dummy/lion.gif)
 
